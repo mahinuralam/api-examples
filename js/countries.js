@@ -39,3 +39,5 @@ const displayCountryDetail = country => {
         <img width="200px" src="${country.flag}">
     `
 }
+
+
